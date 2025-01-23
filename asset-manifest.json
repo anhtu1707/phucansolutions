@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/phucansolutions/static/css/main.99a51a10.css",
+    "main.js": "/phucansolutions/static/js/main.91a6468a.js",
+    "index.html": "/phucansolutions/index.html",
+    "main.99a51a10.css.map": "/phucansolutions/static/css/main.99a51a10.css.map",
+    "main.91a6468a.js.map": "/phucansolutions/static/js/main.91a6468a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99a51a10.css",
+    "static/js/main.91a6468a.js"
+  ]
+}
