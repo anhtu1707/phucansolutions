@@ -1,0 +1,10 @@
+{
+    "homepage": "https://phucansolutions.com.vn",
+    "name": "phucansolutions",
+    "version": "1.0.0",
+    "private": true,
+    "dependencies": {
+        "react": "^18.3.1",
+        "react-dom": "^18.3.1"
+    }
+}
